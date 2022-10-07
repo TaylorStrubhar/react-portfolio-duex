@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-portfolio-duex/static/css/main.98c28796.css",
-    "main.js": "/react-portfolio-duex/static/js/main.71589488.js",
+    "main.js": "/react-portfolio-duex/static/js/main.6c59f7c3.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio-duex/static/js/787.a2cb61a6.chunk.js",
     "static/media/cover-image.jpeg": "/react-portfolio-duex/static/media/cover-image.bb3597533833f78129a3.jpeg",
     "static/media/fictionalguac.png": "/react-portfolio-duex/static/media/fictionalguac.368dc0fb6c05fa91a496.png",
     "static/media/workouttrack.png": "/react-portfolio-duex/static/media/workouttrack.bb5d8fd67b318445fa8b.png",
     "index.html": "/react-portfolio-duex/index.html",
     "main.98c28796.css.map": "/react-portfolio-duex/static/css/main.98c28796.css.map",
-    "main.71589488.js.map": "/react-portfolio-duex/static/js/main.71589488.js.map",
+    "main.6c59f7c3.js.map": "/react-portfolio-duex/static/js/main.6c59f7c3.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio-duex/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98c28796.css",
-    "static/js/main.71589488.js"
+    "static/js/main.6c59f7c3.js"
   ]
 }
