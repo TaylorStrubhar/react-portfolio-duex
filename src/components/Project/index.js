@@ -5,7 +5,7 @@ const Project = () => {
     <section>
       <div>
         <p>Workout Tracker</p>
-        <a href='workout-tracker-app2.herokuapp.com/'>
+        <a href='https://workout-tracker-app2.herokuapp.com/'>
           <img
             src={require(`../../assets/projects/workouttrack.png`)}
             alt={`Workout Tracker`}
