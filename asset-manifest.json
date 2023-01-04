@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio-duex/static/css/main.98c28796.css",
-    "main.js": "/react-portfolio-duex/static/js/main.6c59f7c3.js",
+    "main.css": "/react-portfolio-duex/static/css/main.5b23e80a.css",
+    "main.js": "/react-portfolio-duex/static/js/main.57631d40.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio-duex/static/js/787.a2cb61a6.chunk.js",
     "static/media/cover-image.jpeg": "/react-portfolio-duex/static/media/cover-image.bb3597533833f78129a3.jpeg",
-    "static/media/fictionalguac.png": "/react-portfolio-duex/static/media/fictionalguac.368dc0fb6c05fa91a496.png",
-    "static/media/workouttrack.png": "/react-portfolio-duex/static/media/workouttrack.bb5d8fd67b318445fa8b.png",
+    "static/media/fictionalguac-post.png": "/react-portfolio-duex/static/media/fictionalguac-post.5d7c55df08b44c3e7274.png",
+    "static/media/workouttrack-post.png": "/react-portfolio-duex/static/media/workouttrack-post.3c1afe836aec21868041.png",
+    "static/media/textedit-post.png": "/react-portfolio-duex/static/media/textedit-post.2f6e2eb4b27dacb2964c.png",
     "index.html": "/react-portfolio-duex/index.html",
-    "main.98c28796.css.map": "/react-portfolio-duex/static/css/main.98c28796.css.map",
-    "main.6c59f7c3.js.map": "/react-portfolio-duex/static/js/main.6c59f7c3.js.map",
+    "main.5b23e80a.css.map": "/react-portfolio-duex/static/css/main.5b23e80a.css.map",
+    "main.57631d40.js.map": "/react-portfolio-duex/static/js/main.57631d40.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio-duex/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c28796.css",
-    "static/js/main.6c59f7c3.js"
+    "static/css/main.5b23e80a.css",
+    "static/js/main.57631d40.js"
   ]
 }
