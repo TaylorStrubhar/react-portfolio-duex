@@ -1,7 +1,7 @@
 import React from 'react';
 import TabContent from '../TabContent';
 import AboutMe from '../About';
-import Project from '../Project';
+import Projects from '../Projects';
 import Contact from '../Contact';
 import Resume from '../Resume';
 
@@ -10,8 +10,8 @@ function Tabs({ currentTab }) {
     switch (currentTab.name) {
       case 'AboutMe':
         return <AboutMe />;
-      case 'Project':
-        return <Project />;
+      case 'Projects':
+        return <Projects />;
       case 'Contact':
         return <Contact />;
       case 'Resume':
